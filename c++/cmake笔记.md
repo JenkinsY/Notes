@@ -367,7 +367,7 @@ hello.h中的内容
 
 ```cpp
 #ifndef HELLO_H
-#define Hello_H
+#define HELLO_H
 
 void HelloFunc();
 

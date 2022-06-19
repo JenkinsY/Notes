@@ -1,0 +1,1 @@
+### 用 ```#pragma once``` 替代 ```#ifndef  #endif```
